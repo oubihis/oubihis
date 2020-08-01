@@ -1,6 +1,6 @@
 ## Oh hi there 👋, beautiful people Greetings Around the World 🌏 from Morocco 🇲🇦
 ### We will see each other again 😉
-
+<img width="100%" align='right' src="https://github-readme-stats.vercel.app/api?username=oubihis&show_icons=true&hide_border=true">
 <!--
 **oubihis/oubihis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
