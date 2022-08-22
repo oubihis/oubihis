@@ -1,5 +1,6 @@
 ## Oh hi there 👋, beautiful people Greetings Around the World 🌏 from Morocco 🇲🇦
 ### We will see each other again ✨ ✨
+[![oubihis's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=oubihis&theme=github)](https://git.io/praveenscience)
 <!--
 **oubihis/oubihis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
