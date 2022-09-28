@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [oubihis.com](https://oubihis.com)
 
-- 💬 Ask me about **Vuejs, Tailwind CSS,**
+- 💬 Ask me about **Vuejs, Tailwind CSS, Wordpress, Prestashop**
 
 - 📫 How to reach me **oubihis@gmail.com**
 
