@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Vuejs, Tailwind CSS, Wordpress, Prestashop**
 
-- 📫 How to reach me **oubihis@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/oubihis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oubihis" height="30" width="40" /></a>
